@@ -21,37 +21,16 @@ Criar uma aplicação funcional de monitoramento do clima, implementando:
 ```plaintext
 .
 ├── css/
-│   ├── AdministradorController.php
-│   ├── ExperienciaProfissionalController.php
-│   ├── FormacaoAcadController.php
-│   ├── Navegacao.php
-│   ├── OutrasFormacoesController.php
-│   └── UsuarioController.php
+│   └── styles.css
 ├── dist
-│   └── Enlatados.png
+│   └── bundle.js
 ├── js/
-│   ├── Administrador.php
-│   ├── ConexaoBD.php
-│   ├── ExperienciaProfissional.php
-│   ├── FormacaoAcad.php
-│   ├── outrasformacoes.php
-│   └── Usuario.php
+│   ├── exemplo.js
+│   └── index.js
 ├── node_modules/
-│   ├── ADMListarAdministradores.php
-│   ├── ADMListarCadastrados.php
-│   ├── ADMLogin.php
-│   ├── ADMPrincipal.php
-│   ├── ADMVisualizarCadastro.php
-│   ├── atualizacaoRealizada.php
-│   ├── cadastroNaoRealizado.php
-│   ├── cadastroRealizado.php
-│   ├── informacaoExcluida.php
-│   ├── informacaoInserida.php
-│   ├── login.php
-│   ├── operacaoNaoRealizada.php
-│   ├── primeiroAcesso.php
-│   └── principal.php
 ├── ts/
+│   ├── exemplo.ts
+│   └── index.ts
 ├── index.html
 ├── package-lock.json
 ├── package.json
